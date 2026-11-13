@@ -1,0 +1,1 @@
+import{t as e}from"./player-B9uFqP7o.js";var t=document.createElement(`media-i18n`);t.append(e()),document.getElementById(`player`).append(t),document.querySelectorAll(`[data-demo]`).forEach(e=>{e.addEventListener(`click`,()=>{document.getElementById(`player`).scrollIntoView({behavior:`smooth`,block:`center`}),document.querySelector(`.mild-mode`)?.focus()})});

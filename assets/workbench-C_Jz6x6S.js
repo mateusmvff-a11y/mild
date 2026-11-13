@@ -1,1 +1,0 @@
-import{t as e}from"./player-BSUTrR5_.js";var t=document.createElement(`media-i18n`);t.append(e()),document.getElementById(`player`).append(t),document.querySelectorAll(`[data-demo]`).forEach(e=>{e.addEventListener(`click`,()=>{document.getElementById(`player`).scrollIntoView({behavior:`smooth`,block:`center`}),document.querySelector(`.mild-mode`)?.focus()})});
